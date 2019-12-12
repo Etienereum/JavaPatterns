@@ -3,9 +3,9 @@ package com.orason.foodType;
 import com.orason.Food;
 import com.orason.decorator.FoodDecorator;
 
-public class ChineesFood extends FoodDecorator {
+public class ChineeseFood extends FoodDecorator {
 
-    public ChineesFood(Food newFood){
+    public ChineeseFood(Food newFood){
         super(newFood);
     }
 

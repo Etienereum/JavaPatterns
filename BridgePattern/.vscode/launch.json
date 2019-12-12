@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainClass",
+            "request": "launch",
+            "mainClass": "mainClass",
+            "projectName": "BridgePattern_8e794c93"
+        }
+    ]
+}

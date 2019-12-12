@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": "MediatorPattern_d4a28ae9"
+        }
+    ]
+}

@@ -1,4 +1,14 @@
 package com.orason.foodType;
 
-public class VegFood {
+import com.orason.Food;
+
+public class VegFood implements Food {
+
+    public String prepareFood(){
+        return "Veg Food";
+    }
+
+    public double foodPrice(){
+        return 50.0;
+    }
 }
