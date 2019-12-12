@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8633cb85-121d-4565-ac8a-b251ff6df9b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/ObjectPoolPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/src/com/orason/ExportingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/src/com/orason/ExportingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/src/com/orason/ObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectPoolPattern/src/com/orason/ObjectPoolDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UkJy7TmfnhhhT6vDkdhoDs75Ul" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.orason.Main" />
+      <module name="DecoratorPAttern" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8633cb85-121d-4565-ac8a-b251ff6df9b4" name="Default Changelist" comment="" />
+      <created>1575894910494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575894910494</updated>
+      <workItem from="1575894912952" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="81" key="new project wizard" timestamp="1575895024985">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="81" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1575895024985" />
+  </component>
+</project>
